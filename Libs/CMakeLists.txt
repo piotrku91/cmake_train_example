@@ -1,0 +1,2 @@
+add_subdirectory(buildInfo)
+add_subdirectory(easyCalc)
